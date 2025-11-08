@@ -1,2 +1,3 @@
-# LAB5_MAI-OOP-LABS-cpp-2025-Public
-Repository for laboratory work 5 on the subject of OOP in the Moscow Aviation Institute in the programming language c++. Student of group M8O-207BV-24 Druzhinin Danil
+This repository will contain solutions 5 to laboratory work on the OOP course at MAI.
+
+![heavy c++](https://github.com/user-attachments/assets/6bf29c4b-c1a4-400b-b03f-e75a4146aff5)
