@@ -1,0 +1,8 @@
+version: "3"
+services:
+  cpp:
+    build: .
+    container_name: lab5_mai_cpp_labs
+    volumes:
+      - .:/workspace
+    tty: true
